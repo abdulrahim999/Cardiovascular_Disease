@@ -25,10 +25,10 @@ https://www.kaggle.com/sulianova/cardiovascular-disease-dataset/download
 - Jupter (pandas, numpy, matplotlib)
 
 # Questions:
-1-	The static of number of numbers of smokers and non-smoker? 
-2-	Which gender is more smoking? give solution in presentation
-3-	The relationship between age and smoker and non-smoker along with cardiovascular disease?
-4-	See who more active smoker or non-smoker people?
+1.	The static of number of numbers of smokers and non-smoker? 
+2.	Which gender is more smoking? give solution in presentation
+3.	The relationship between age and smoker and non-smoker along with cardiovascular disease?
+4.	See who more active smoker or non-smoker people?
 
 # MVP Goal:
 To present a static relation and visualization outcomes from the Cardiovascular Disease dataset and give advisement or solutions about it.
