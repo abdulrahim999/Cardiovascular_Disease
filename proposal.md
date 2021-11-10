@@ -4,10 +4,10 @@ The dataset consists of 70 000 records of patients data in 12 features, such as 
 # Data description
 Objective: factual information * Examination: results of medical examination *Subjective: information given by the patient.
 
-## source:
+# source:
 https://www.kaggle.com/sulianova/cardiovascular-disease-dataset/download
 
-## Features:
+# Features:
 1.	Age | Objective Feature | age | int (days)
 2.	Height | Objective Feature | height | int (cm) |
 3.	Weight | Objective Feature | weight | float (kg) |
@@ -21,12 +21,12 @@ https://www.kaggle.com/sulianova/cardiovascular-disease-dataset/download
 11.	Physical activity | Subjective Feature | active | binary |
 12.	Presence or absence of cardiovascular disease | Target Variable | cardio | binary |
 
-## Tools:
+# Tools:
 - Jupter (pandas, numpy, matplotlib)
 
-## Questions:
-1-	The static of number of numbers of smokers and non-smoker?
-2-	Which gender is more smoking? give solution in presentation.
+# Questions:
+1-	The static of number of numbers of smokers and non-smoker? 
+2-	Which gender is more smoking? give solution in presentation
 3-	The relationship between age and smoker and non-smoker along with cardiovascular disease?
 4-	See who more active smoker or non-smoker people?
 
