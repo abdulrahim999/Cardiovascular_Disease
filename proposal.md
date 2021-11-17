@@ -25,14 +25,14 @@ https://www.kaggle.com/sulianova/cardiovascular-disease-dataset/download
 - Jupter (pandas, numpy, matplotlib)
 
 # Questions:
-1.	The static of number of numbers of smokers and non-smoker?
-2.  How much smoker and non smoker along with gender?
-3.  How much people infected with cardiovascular along with gender?
-4.  What is the relationship between smoker and non smoker along with cardiovascular?
-5.  What is the relationship between the age and cardiovascular?
-6.  What is the relationship between the age and cholesterol?
-7.  What is the relationship between the cardiovascular and cholesterol?
-8.  What is the relationship between smoker and non smoker along with cholesterol?
+
+1.  How much smoker and non smoker along with gender?
+2.  How much people infected with cardiovascular along with gender?
+3.  What is the relationship between smoker and non smoker along with cardiovascular?
+4.  What is the relationship between the age and cardiovascular?
+5.  What is the relationship between the age and cholesterol?
+6.  What is the relationship between the cardiovascular and cholesterol?
+7.  What is the relationship between smoker and non smoker along with cholesterol?
 
 
 # MVP Goal:
